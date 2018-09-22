@@ -1,0 +1,10 @@
+Unknown;-1
+Solder_1;0
+Cerci;1
+Peter;2
+Khalisi;3
+Solder_2;4
+Jhon_Snow;5
+Little_Finger;6
+Arya_Stark;7
+Pirate;8

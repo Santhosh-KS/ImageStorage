@@ -1,0 +1,10 @@
+Unknown;-1
+Fighter_1;0
+Cerci;1
+Peter;2
+Khalisi;3
+Fighet_2;4
+Jhon_Snow;5
+Little_Finger;6
+Arya_stark;7
+Pirate;8

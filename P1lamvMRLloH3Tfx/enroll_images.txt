@@ -1,0 +1,9 @@
+/tmp/images/P1lamvMRLloH3Tfx/faces/Fighter_1/cluster_1.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Cerci/cluster_2.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Peter/cluster_3.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Khalisi/cluster_4.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Fighet_2/cluster_5.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Jhon_Snow/cluster_6.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Little_Finger/cluster_7.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Arya_stark/cluster_8.jpg
+/tmp/images/P1lamvMRLloH3Tfx/faces/Pirate/cluster_9.jpg
