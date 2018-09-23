@@ -1,0 +1,2 @@
+/tmp/images/fLMiwUbQVLP6sxTR/faces/Dude_1/cluster_0.jpg
+/tmp/images/fLMiwUbQVLP6sxTR/faces/Dude_2/cluster_1.jpg

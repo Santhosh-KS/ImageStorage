@@ -1,0 +1,2 @@
+/tmp/images/yS6JrTezwRSs1tdc/1/30/1537632693521.jpg	/tmp/images/yS6JrTezwRSs1tdc/cluster/cluster_0.jpg
+/tmp/images/yS6JrTezwRSs1tdc/1/30/1537632799342.jpg	/tmp/images/yS6JrTezwRSs1tdc/cluster/cluster_1.jpg
