@@ -1,0 +1,16 @@
+Total Images 	:	522
+Total Closeup shots	:	57
+Total Images with Faces in it	:	72
+Total Images with One Face	:	70
+Total Images with Two Face	:	2
+Total Person identified :10
+cluster_0:7
+cluster_1:7
+cluster_2:7
+cluster_3:7
+cluster_4:7
+cluster_5:7
+cluster_6:7
+cluster_7:7
+cluster_8:7
+cluster_9:7

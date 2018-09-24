@@ -1,0 +1,9 @@
+/tmp/images/abVotaLbvHEv19q3/faces/Grey_worm/cluster_1.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/Cerci/cluster_2.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/Tyrion_Lannister/cluster_3.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/Khalisi/cluster_4.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/SomeLady/cluster_5.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/Jon_Snow/cluster_6.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/Little_Finger/cluster_7.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/Arya_Stark/cluster_8.jpg
+/tmp/images/abVotaLbvHEv19q3/faces/Davos/cluster_9.jpg
