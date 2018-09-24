@@ -1,0 +1,10 @@
+Unknown;-1
+Gray_Worm;0
+Cerci;1
+Tyrion;2
+Khalisi;3
+Some_Lady;4
+Jon_Snow;5
+Little_Finger;6
+Arya_Stark;7
+Davos;8
